@@ -1,6 +1,7 @@
 # OOP Project — Database Manager
 
-A Python Tkinter database management system created for a Year 11 Software Engineering project.
+A Python Tkinter database management system created for a Year 11 Software Engineering project. 
+## NOTE: this does not auto save so save
 
 ## Features
 - Insert records
@@ -9,7 +10,6 @@ A Python Tkinter database management system created for a Year 11 Software Engin
 - Query by ID, name, age
 - Sort records
 - Save/load JSON database
-- Automatic backup creation
 - Clean Tkinter GUI
 
 ## Requirements
