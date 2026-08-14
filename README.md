@@ -23,10 +23,10 @@ A Python Tkinter database management system created for a Year 11 Software Engin
 3. Run: python gui.py
 
 ## Project Structure
-gui.py              # GUI
-classes.py          # Backend classes
-test_database.json  # Database file
-backup/             # Automatic backups
+- gui.py              # GUI
+- classes.py          # Backend classes
+- test_database.json  # Database file
+- backup/             # Automatic backups
 
 ## Author
 Kapikrishore Rajendran — Year 11 Software Engineering Project
